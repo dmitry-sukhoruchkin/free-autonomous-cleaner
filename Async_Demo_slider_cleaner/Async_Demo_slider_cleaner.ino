@@ -115,8 +115,8 @@ void setup(void) {
     <a href=\"/stepforward\"><h1>Step Froward</h1></a>\
     <a href=\"/stepright\"><h1>Step Right</h1></a>\
     <a href=\"/moveleft\"><h1>Move Left</h1></a>\
-    <a href=\"/moveforward/\"><h1>Move Froward</h1></a>\
-    <a href=\"/moveright\><h1>Move Right</h1></a>\
+    <a href=\"/moveforward\"><h1>Move Froward</h1></a>\
+    <a href=\"/moveright\"><h1>Move Right</h1></a>\
     <a href=\"/stop\"><h1>Stop</h1></a>\
   </body>\
 </html>");
